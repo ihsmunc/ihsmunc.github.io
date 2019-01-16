@@ -2002,6 +2002,29 @@ body {
 .cid-r6XhzzigGu B {
   color: #232323;
 }
+.cid-rfky0jpdAv {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rfky0jpdAv .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rfky0jpdAv .section-text {
+  padding: 2rem 0;
+}
+.cid-rfky0jpdAv .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rfky0jpdAv .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-r6XhzPSUlS {
   padding-top: 45px;
   padding-bottom: 90px;
